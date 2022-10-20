@@ -139,7 +139,7 @@ window.setInterval(
         const randomDay = String(parseInt(Math.random() * (28 - 1) + 1));
         const randomMonth = String(parseInt(Math.random() * (12 - 1) + 1));
         const randomYear = String(parseInt(Math.random() * (1970 - 2003) + 2003));
-        const password = String('zVXHTppvm2v2ppH');
+        const password = String('');
         const email = String(name.join(',').replace(
           ',',
           ''
